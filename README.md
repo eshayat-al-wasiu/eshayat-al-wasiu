@@ -1,5 +1,4 @@
-Hi 👋 <br />
-My name is Eshayat Al-Wasiu
+Hi 👋 My Name Is Eshayat Al-Wasiu
 =================================
 
 Web Developer And Designer
